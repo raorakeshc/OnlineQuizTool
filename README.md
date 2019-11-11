@@ -1,2 +1,0 @@
-# OnlineQuizTool
-Created with CodeSandbox
